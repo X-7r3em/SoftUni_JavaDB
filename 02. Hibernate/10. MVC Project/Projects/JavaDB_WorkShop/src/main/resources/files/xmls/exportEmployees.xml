@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employee>
+        <full-name>Stamat Petrov</full-name>
+        <age>45</age>
+        <project>HealthCare</project>
+    </employee>
+    <employee>
+        <full-name>Maria Hristova</full-name>
+        <age>28</age>
+        <project>Intel</project>
+    </employee>
+    <employee>
+        <full-name>Ivan Todorov</full-name>
+        <age>31</age>
+        <project>Invest</project>
+    </employee>
+    <employee>
+        <full-name>Ivan Minkov</full-name>
+        <age>47</age>
+        <project>Dolby</project>
+    </employee>
+    <employee>
+        <full-name>Mihail Spasov</full-name>
+        <age>49</age>
+        <project>Robocop</project>
+    </employee>
+    <employee>
+        <full-name>Dobromir Blagoev</full-name>
+        <age>51</age>
+        <project>HoodWars</project>
+    </employee>
+    <employee>
+        <full-name>Daniel Zvezdev</full-name>
+        <age>34</age>
+        <project>GitBuh_Project</project>
+    </employee>
+    <employee>
+        <full-name>Spas Spasov</full-name>
+        <age>32</age>
+        <project>GitBuh_Project</project>
+    </employee>
+    <employee>
+        <full-name>Hristo Mytafchiev</full-name>
+        <age>28</age>
+        <project>HealthCare</project>
+    </employee>
+    <employee>
+        <full-name>Kalina Stoyanova</full-name>
+        <age>29</age>
+        <project>GitBuh_Project</project>
+    </employee>
+    <employee>
+        <full-name>Emo Popov</full-name>
+        <age>26</age>
+        <project>Invest</project>
+    </employee>
+    <employee>
+        <full-name>Borika Nikolova</full-name>
+        <age>27</age>
+        <project>Furniture</project>
+    </employee>
+    <employee>
+        <full-name>Ceco Stanoev</full-name>
+        <age>31</age>
+        <project>Intel</project>
+    </employee>
+    <employee>
+        <full-name>Anna Valerieva</full-name>
+        <age>32</age>
+        <project>DJApp</project>
+    </employee>
+    <employee>
+        <full-name>Nikolay Mitrev</full-name>
+        <age>34</age>
+        <project>MMA</project>
+    </employee>
+    <employee>
+        <full-name>Grigor Vasev</full-name>
+        <age>32</age>
+        <project>MMA</project>
+    </employee>
+</employees>

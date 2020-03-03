@@ -1,0 +1,9 @@
+CREATE TABLE `minions`(
+`id` INT PRIMARY KEY NOT NULL,
+`name` VARCHAR(45) NOT NULL,
+`age` INT
+);
+CREATE TABLE `towns`(
+`id` INT PRIMARY KEY NOT NULL,
+`name` VARCHAR(45) NOT NULL
+);
